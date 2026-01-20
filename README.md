@@ -81,6 +81,6 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 **Dipanshu Kumar**
 📌 Full Stack Developer
 
----
+----
 
 ✨ *Swadly – Because every bite should be full of taste!* 😍
