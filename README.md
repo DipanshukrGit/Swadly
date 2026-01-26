@@ -56,7 +56,7 @@ Swadly is a modern **food ordering and table booking web application**, a comple
 * 🔑 JWT (JSON Web Tokens)
 * 🔐 Bcrypt for password hashing
 
----
+----
 
 
 ## 🌐 Future Enhancements
